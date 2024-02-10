@@ -1,0 +1,5 @@
+1. npm install -D tailwindcss postcss autoprefixer
+2. npm install vite
+3. in package.json write a script - start : vite
+4. npx tailwindcss init
+5. in content add star * 
